@@ -9,6 +9,10 @@ body {
   background-position: -300px;
 }
 
+.whitespace {
+  margin: 150px 0 50px 0;
+}
+
 @media (max-width: 992px) {
   .hero-image {
     height: 350px;
@@ -16,10 +20,10 @@ body {
     background-position: center;
     background-size: cover;
   }
-}
 
-.whitespace {
-  margin: 150px 0 50px 0;
+  .whitespace {
+    margin: 50px 0 50px 0;
+  }
 }
 
 .hero-title {
@@ -49,7 +53,7 @@ body {
 }
 
 ul li {
-  list-style-type: "- ";
+  list-style-type: '- ';
 }
 
 .skill-card {
