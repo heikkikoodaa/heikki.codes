@@ -36,3 +36,8 @@ body {
 .link:hover {
   font-size: 2rem;
 }
+
+.cta-button {
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+}
