@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+.hero-image {
+  background-image: url('../img/heikki.jpg');
+  background-size: cover;
+}
+
+@media (max-width: 992px) {
+  .hero-image {
+    height: 350px;
+    background-image: url('../img/heikki.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+.whitespace {
+  margin: 150px 0 50px 0;
+}
+
+.hero-title {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.margin {
+  margin: 2rem 0;
+}
+
+.card {
+  height: 100%;
+}
+
+.link:hover {
+  font-size: 2rem;
+}
