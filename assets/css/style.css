@@ -41,3 +41,25 @@ body {
   font-size: 1.5rem;
   padding: 1rem 2rem;
 }
+
+.cta-button .fa-github {
+  font-size: 2rem;
+}
+
+ul li {
+  list-style-type: "- ";
+}
+
+.skill-card {
+  background-color: #506684;
+  color: white;
+}
+
+.skill-tag {
+  display: inline-block;
+  text-align: center;
+  background-color: #3b82e6;
+  padding: 0.5rem 1.3rem;
+  border-radius: 2rem;
+  margin: 0.3rem 0;
+}
