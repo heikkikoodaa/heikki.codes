@@ -5,6 +5,8 @@ body {
 .hero-image {
   background-image: url('../img/heikki.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -300px;
 }
 
 @media (max-width: 992px) {
